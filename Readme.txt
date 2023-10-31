@@ -1,7 +1,7 @@
 Проект новостного ТГ-канала для серии статей на habr.com
     - Первая часть: https://habr.com/ru/articles/769860/
     - Вторая часть: https://habr.com/ru/articles/770428/
-    - Третья часть: TBD
+    - Третья часть: https://habr.com/ru/articles/770622/
 
     Файлы:
     bot.py - main файл, с которого необходимо запускать скрипт
